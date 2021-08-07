@@ -11,6 +11,7 @@ public class d2 {
         String str="yitti gari";
 
         int eq=10;
+        String str1="school";
 
         
         System.out.println("This is remote repo code");
