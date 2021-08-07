@@ -11,7 +11,10 @@ public class d2 {
         String str="yitti gari";
 
         int eq=10;
+
         System.out.println("Project");
+
+        String str1="school";
 
 
         
