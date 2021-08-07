@@ -6,5 +6,8 @@ public class d1 {
         System.out.println("hi");
         System.out.println("new");
 
+        String str ="Java";
+
+
     }
 }
