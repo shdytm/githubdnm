@@ -10,6 +10,7 @@ public class MyThirdClass {
 
         int z=10;
 
+        String ahmetCode="This code is in my local";
         System.out.println("THIS IS REMOTE REPO CODE");
 
 
