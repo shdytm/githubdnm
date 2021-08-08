@@ -9,7 +9,8 @@ public class MyThirdClass {
         String str="Java";
 
         int z=10;
-
+        
+        String osmanCode ="This code is push to remote repository";
         System.out.println("THIS IS REMOTE REPO CODE");
 
 
