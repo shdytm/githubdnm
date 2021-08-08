@@ -1,6 +1,6 @@
 package deneme;
 
-public class d2 {
+public class SecondJavaClass {
     public static void main(String[] args) {
         int x = 5;
         int sum = x + 2;
